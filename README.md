@@ -1,5 +1,7 @@
 # Pruning from Scratch
 
+official implementation of the paper [Pruning from Scratch](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-WangY.403.pdf)
+
 ## Requirements
 - pytorch == 1.1.0
 - torchvision == 0.2.2
